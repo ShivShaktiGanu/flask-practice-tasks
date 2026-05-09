@@ -194,3 +194,80 @@ git rebase --continue
 nano templates/todo.html
 git add templates/todo.html
 git rebase --continue
+docker-compose up --build
+docker login
+docker images
+docker tag frontend shivshaktiganu/frontend
+docker tag backend shivshaktiganu/backend
+docker images
+cd ~
+ls
+sudo docker-compose up --build
+sudo DOCKER_BUILDKIT=0 docker-compose up --build
+cd ..
+mkdir backend
+cd backend
+cd ''
+cd ..
+cd ~
+/home/ec2-user
+cd /home/ec2-user
+pwd
+mkdir backend
+cd backend
+docker images
+docker tag ec2-user-frontend shivshaktiganu/frontend
+docker tag ec2-user-backend shivshaktiganu/backend
+docker push shivshaktiganu/frontend
+docker push shivshaktiganu/backend
+nano .gitignore
+git add .
+git commit -m "Final Docker project"
+git push origin main
+ls
+git init
+git remote add origin https://github.com/ShivShaktiGanu/flask-practice-tasks.git
+git add .
+git commit -m "Final Docker project"
+git branch -M main
+git push -u origin main
+git branch -M main
+git push -u origin main
+git pull origin main --rebase
+git add .
+git rebase --continue
+git add .
+git rebase --continue
+git push origin main --force
+git rm --cached .ssh/id_ed25519
+nano .gitignore
+git add .
+git commit -m "Removed SSH key from repository"
+git push origin main --force
+git filter-branch --force --index-filter "git rm --cached --ignore-unmatch .ssh/id_ed25519" --prune-empty --tag-name-filter cat -- --all
+echo ".ssh/" >> .gitignore
+git add .gitignore
+git commit -m "Ignore SSH keys"
+git push origin main --force
+sudo yum update -y
+sudo yum install git python3 nodejs -y
+cd backend
+pip3 install -r requirements.txt
+python3 app.py
+cd frontend
+npm install
+node server.js
+ls
+node app.js
+docker --version
+minikube version
+kubectl version --client
+curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
+chmod +x kubectl
+sudo mv kubectl /usr/local/bin/
+kubectl version --client
+curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
+chmod +x minikube-linux-amd64
+sudo mv minikube-linux-amd64 /usr/local/bin/minikube
+minikube version
+minikube start --driver=docker

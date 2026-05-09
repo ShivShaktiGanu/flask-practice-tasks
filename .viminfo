@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1776265000,,"wq"
+|2,0,1778334762,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -28,26 +28,252 @@
 |3,1,0,1,1,0,1776264946,"Added Item UUID field"
 
 # File marks:
-'0  7  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
-|4,48,7,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
-'1  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
-|4,49,1,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
-'2  2  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
-|4,50,2,0,1776265000,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+'0  11  15  ~/k8s/frontend-service.yaml
+|4,48,11,15,1778334762,"~/k8s/frontend-service.yaml"
+'1  20  28  ~/k8s/frontend-deployment.yaml
+|4,49,20,28,1778334736,"~/k8s/frontend-deployment.yaml"
+'2  11  15  ~/k8s/backend-service.yaml
+|4,50,11,15,1778334711,"~/k8s/backend-service.yaml"
+'3  20  28  ~/k8s/backend-deployment.yaml
+|4,51,20,28,1778334686,"~/k8s/backend-deployment.yaml"
+'4  7  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,52,7,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+'5  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,53,1,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+'6  2  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,54,2,0,1776265000,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  11  15  ~/k8s/frontend-service.yaml
+|4,39,11,15,1778334762,"~/k8s/frontend-service.yaml"
+-'  1  0  ~/k8s/frontend-service.yaml
+|4,39,1,0,1778334749,"~/k8s/frontend-service.yaml"
+-'  20  28  ~/k8s/frontend-deployment.yaml
+|4,39,20,28,1778334736,"~/k8s/frontend-deployment.yaml"
+-'  20  28  ~/k8s/frontend-deployment.yaml
+|4,39,20,28,1778334736,"~/k8s/frontend-deployment.yaml"
+-'  1  0  ~/k8s/frontend-deployment.yaml
+|4,39,1,0,1778334726,"~/k8s/frontend-deployment.yaml"
+-'  1  0  ~/k8s/frontend-deployment.yaml
+|4,39,1,0,1778334726,"~/k8s/frontend-deployment.yaml"
+-'  11  15  ~/k8s/backend-service.yaml
+|4,39,11,15,1778334711,"~/k8s/backend-service.yaml"
+-'  11  15  ~/k8s/backend-service.yaml
+|4,39,11,15,1778334711,"~/k8s/backend-service.yaml"
+-'  11  15  ~/k8s/backend-service.yaml
+|4,39,11,15,1778334711,"~/k8s/backend-service.yaml"
+-'  11  15  ~/k8s/backend-service.yaml
+|4,39,11,15,1778334711,"~/k8s/backend-service.yaml"
+-'  1  0  ~/k8s/backend-service.yaml
+|4,39,1,0,1778334700,"~/k8s/backend-service.yaml"
+-'  1  0  ~/k8s/backend-service.yaml
+|4,39,1,0,1778334700,"~/k8s/backend-service.yaml"
+-'  1  0  ~/k8s/backend-service.yaml
+|4,39,1,0,1778334700,"~/k8s/backend-service.yaml"
+-'  1  0  ~/k8s/backend-service.yaml
+|4,39,1,0,1778334700,"~/k8s/backend-service.yaml"
+-'  20  28  ~/k8s/backend-deployment.yaml
+|4,39,20,28,1778334686,"~/k8s/backend-deployment.yaml"
+-'  20  28  ~/k8s/backend-deployment.yaml
+|4,39,20,28,1778334686,"~/k8s/backend-deployment.yaml"
+-'  20  28  ~/k8s/backend-deployment.yaml
+|4,39,20,28,1778334686,"~/k8s/backend-deployment.yaml"
+-'  20  28  ~/k8s/backend-deployment.yaml
+|4,39,20,28,1778334686,"~/k8s/backend-deployment.yaml"
+-'  20  28  ~/k8s/backend-deployment.yaml
+|4,39,20,28,1778334686,"~/k8s/backend-deployment.yaml"
+-'  20  28  ~/k8s/backend-deployment.yaml
+|4,39,20,28,1778334686,"~/k8s/backend-deployment.yaml"
+-'  20  28  ~/k8s/backend-deployment.yaml
+|4,39,20,28,1778334686,"~/k8s/backend-deployment.yaml"
+-'  20  28  ~/k8s/backend-deployment.yaml
+|4,39,20,28,1778334686,"~/k8s/backend-deployment.yaml"
+-'  1  0  ~/k8s/backend-deployment.yaml
+|4,39,1,0,1778334671,"~/k8s/backend-deployment.yaml"
+-'  1  0  ~/k8s/backend-deployment.yaml
+|4,39,1,0,1778334671,"~/k8s/backend-deployment.yaml"
+-'  1  0  ~/k8s/backend-deployment.yaml
+|4,39,1,0,1778334671,"~/k8s/backend-deployment.yaml"
+-'  1  0  ~/k8s/backend-deployment.yaml
+|4,39,1,0,1778334671,"~/k8s/backend-deployment.yaml"
+-'  1  0  ~/k8s/backend-deployment.yaml
+|4,39,1,0,1778334671,"~/k8s/backend-deployment.yaml"
+-'  1  0  ~/k8s/backend-deployment.yaml
+|4,39,1,0,1778334671,"~/k8s/backend-deployment.yaml"
+-'  1  0  ~/k8s/backend-deployment.yaml
+|4,39,1,0,1778334671,"~/k8s/backend-deployment.yaml"
+-'  1  0  ~/k8s/backend-deployment.yaml
+|4,39,1,0,1778334671,"~/k8s/backend-deployment.yaml"
+-'  7  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,7,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  7  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,7,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  7  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,7,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  7  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,7,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  7  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,7,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  7  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,7,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  7  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,7,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  7  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,7,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  7  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,7,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  7  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,7,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  7  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,7,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  7  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,7,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  7  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,7,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  7  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,7,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  7  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,7,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
 -'  7  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
 |4,39,7,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
 -'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
 |4,39,1,0,1776273039,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
 -'  2  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
 |4,39,2,0,1776265000,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  2  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,2,0,1776265000,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  2  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,2,0,1776265000,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  2  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,2,0,1776265000,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  2  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,2,0,1776265000,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  2  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,2,0,1776265000,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  2  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,2,0,1776265000,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  2  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,2,0,1776265000,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  2  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,2,0,1776265000,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  2  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,2,0,1776265000,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  2  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,2,0,1776265000,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  2  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,2,0,1776265000,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  2  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,2,0,1776265000,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  2  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,2,0,1776265000,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  2  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,2,0,1776265000,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  2  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,2,0,1776265000,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776264936,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776264936,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776264936,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776264936,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776264936,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776264936,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776264936,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776264936,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776264936,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776264936,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776264936,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776264936,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776264936,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776264936,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776264936,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
 -'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
 |4,39,1,0,1776264936,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
 -'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
 |4,39,1,0,1776264679,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776264679,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776264679,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776264679,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776264679,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
+-'  1  0  ~/flask-practice-tasks/.git/COMMIT_EDITMSG
+|4,39,1,0,1776264679,"~/flask-practice-tasks/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
+
+> ~/k8s/frontend-service.yaml
+	*	1778334757	0
+	"	11	15
+	^	11	16
+	.	11	15
+	+	11	15
+
+> ~/k8s/frontend-deployment.yaml
+	*	1778334734	0
+	"	20	28
+	^	20	29
+	.	20	28
+	+	20	28
+
+> ~/k8s/backend-service.yaml
+	*	1778334707	0
+	"	11	15
+	^	11	16
+	.	11	15
+	+	11	15
+
+> ~/k8s/backend-deployment.yaml
+	*	1778334677	0
+	"	20	28
+	^	20	29
+	.	20	28
+	+	20	28
 
 > ~/flask-practice-tasks/.git/COMMIT_EDITMSG
 	*	1776264770	0
